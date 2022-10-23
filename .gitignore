@@ -7,3 +7,4 @@ target/
 # intellij IDEA
 .DS_Store
 .idea
+*.iml
