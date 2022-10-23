@@ -1,0 +1,9 @@
+# logs
+*.log
+
+# generated sources
+target/
+
+# intellij IDEA
+.DS_Store
+.idea
